@@ -1,0 +1,3 @@
+Xft.dpi: 130
+xterm*font:     xft:terminus:style=bold:pixelsize=18
+
