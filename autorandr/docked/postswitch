@@ -1,4 +1,4 @@
 #!/bin/bash
 exec xrdb -merge ~/.Xmerge/docked
-exec xinput set-prop 20 'libinput Scroll Method Enabled' 0, 0, 1
-exec xinput set-prop 20 'libinput Accel Speed' 1gdebi
+exec xinput set-prop  "Lite-On Tech Lenovo USB Travel Keyboard with Ultra Nav Mouse" "libinput Scroll Method Enabled" 0, 0, 1
+exec xinput set-prop "Lite-On Tech Lenovo USB Travel Keyboard with Ultra Nav Mouse" "libinput Accel Speed" 1

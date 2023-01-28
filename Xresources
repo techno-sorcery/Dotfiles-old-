@@ -37,5 +37,6 @@ Xft.dpi: 130
 
 
 xterm*font:			xft:terminus:style=bold:pixelsize=18
-xterm*titeInhibit:		true
-!xterm*VT100*selectToClipboard:  true
+!xterm*titeInhibit:		true
+!xterm*VT100*selectToClipboard:	true
+xterm*cursorBlink:		true

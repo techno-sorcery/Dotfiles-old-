@@ -422,7 +422,7 @@ PCIE_ASPM_ON_BAT=powersupersave
 # Main / Internal battery (values in %)
 # Default: <none>
 
-START_CHARGE_THRESH_BAT0=85
+START_CHARGE_THRESH_BAT0=80
 STOP_CHARGE_THRESH_BAT0=90
 
 # Ultrabay / Slice / Replaceable battery (values in %)
